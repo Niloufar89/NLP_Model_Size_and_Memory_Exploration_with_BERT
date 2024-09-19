@@ -1,0 +1,9 @@
+   - Save this file as `README.md`.
+
+#### 2. **Create the `requirements.txt` File**
+   - In Jupyter, create another **New** → **Text File**.
+   - Copy the following content into the file:
+
+```plaintext
+transformers
+torch
